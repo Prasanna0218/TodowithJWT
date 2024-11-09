@@ -1,0 +1,19 @@
+.form-box{
+    padding: 10px 300px 10px 30px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border: none;
+    outline: none;
+}
+.inputdiv{
+    margin-top: 50px;
+}
+.addbtn{
+    padding: 10px 20px;
+    border:none;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    color: white;
+    background-color: rgb(67, 65, 65);
+    outline: none !important;
+}

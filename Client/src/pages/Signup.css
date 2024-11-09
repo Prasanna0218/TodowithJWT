@@ -1,0 +1,42 @@
+.loginmaindiv{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.loginheading1{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+}
+.loginheading2{
+    font-size: 30px;
+    font-weight: 600;
+}
+.loginformdiv{
+    display: block;
+    width: auto;
+    padding: 30px 50px;
+    background-color: white;
+    border-radius: 10px;
+}
+.loginformdiv label{
+    font-size: 18px;
+}
+.registerforminput{
+    padding-top: 9px;
+    padding-left: 10px;
+    padding-bottom: 9px;
+    padding-right: 90px;
+    border-radius: 3px;
+    border: 2px solid rgb(76, 74, 74);
+}
+.loginformbtn{
+    padding: 8px 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(17, 17, 17);
+    color: white;
+}
+.mb-6{
+    margin-bottom: 35px !important;
+}
